@@ -1,0 +1,99 @@
+.thought {
+  background-image: url(./freshvegetablesAlexRaths-4c1ea186a88e4fd7b95283eee614600c.jpg);
+  height: 30rem;
+  width: 49%;
+  border-radius: 10px;
+  color: white;
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: center;
+  background-position: top;
+  position: absolute;
+  margin: 5px;
+}
+
+span {
+  color: cyan;
+}
+
+nav {
+  background-color: cyan;
+  border-radius: 20px;
+}
+
+nav h1 {
+  float: left;
+  color: white;
+  margin-top: 30px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  list-style: none;
+  margin: 20px;
+  color: white;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+h1 {
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+li {
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+.thought {
+  font-family: "Lobster Two", cursive;
+}
+
+.box {
+  position: relative;
+}
+
+.bottom hr {
+  width: 300px;
+  margin-top: 500px;
+}
+
+footer {
+  color: grey;
+  margin-left: 280px;
+  padding-left: 50px;
+}
+
+.copy {
+  margin-left: 280px;
+}
+
+.paragraph {
+  background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fresh-vegetables-in-the-eco-cotton-bag-at-the-royalty-free-image-1583774382.jpg?crop=0.891xw:1.00xh;0.0554xw,0&resize=640:*);
+  height: 30rem;
+  width: 49%;
+  float: right;
+  margin: 5px;
+  border-radius: 10px;
+  color: cyan;
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+}
+
+.paragraph p {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+}
